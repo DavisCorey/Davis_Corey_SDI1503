@@ -1,4 +1,5 @@
-/**
- * Created by CoreyDavis on 3/5/15.
- */
+//Corey Davis
+//MDV2330 Term 201503
+//Output Assignment
+
 alert("test")
