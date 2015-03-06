@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27d3f59e-1332-46d2-9d50-14151c672668" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Davis_Corey_Output_Assignment/js/script.js" afterPath="$PROJECT_DIR$/Davis_Corey_Output_Assignment/js/script.js" />
-    </list>
+    <list default="true" id="27d3f59e-1332-46d2-9d50-14151c672668" name="Default" comment="" />
     <ignored path="Davis_Corey_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
