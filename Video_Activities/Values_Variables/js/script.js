@@ -11,3 +11,14 @@ console.log("Hello World!");
  */
 
 alert(yearBorn);
+
+//Defining Variables
+
+var yearOfBirth = 1970; //declaring and defining on the same line
+
+//declare before
+
+var age;
+age = 38;
+
+alert(age, yearBorn)
