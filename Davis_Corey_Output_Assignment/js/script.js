@@ -15,8 +15,9 @@ favoriteFood = "pizza"; // Assigning a string variable
 familyLearning = true; // Assigning a boolean variable
 learningType = "visual"; // Assigning a string variable
 
+//Output of variables and independent strings within console.
 console.log("I have",numberOfKids,"children. ","My", myGirls,"girls love technology and",favoriteFood,"as much as I do. "
 ,"I learn best with",learningType,"reminders of my accomplishments, this helps me stay",familyLearning,"to my daily obligations.");
 
 
-
+alert("For",learningType,"confirmation of output of variables please go to Console.")// Alert output of variable with string concatenated.
