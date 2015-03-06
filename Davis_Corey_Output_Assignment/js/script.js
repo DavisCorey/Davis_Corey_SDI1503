@@ -1,23 +1,22 @@
 //Corey Davis
 //MDV2330 Term 201503
 //Output Assignment
+//March 5 2015
 
-var numberOfChildren;  //Declaration of variable
+var numberOfKids;  //Declaration of variable
 var myGirls;  //Declaration of variable
-var myBoys;  //Declaration of variable
 var favoriteFood; //Declaration of variable
 var familyLearning; //Declaration of variable
 var learningType;  //Declaration of variable
 
-numberOfChildren = 3  // Assigning a number variable
+numberOfKids = 3  // Assigning a number variable
 myGirls = 2 // Assigning a number variable
-myBoys = 1 // Assigning a number variable
-favoriteFood = "Pizza"; // Assigning a string variable
+favoriteFood = "pizza"; // Assigning a string variable
 familyLearning = true; // Assigning a boolean variable
-learningType = "Visual"; // Assigning a string variable
+learningType = "visual"; // Assigning a string variable
 
-
-
+console.log("I have",numberOfKids,"children. ","My", myGirls,"girls love technology and",favoriteFood,"as much as I do. "
+,"I learn best with",learningType,"reminders of my accomplishments, this helps me stay",familyLearning,"to my daily obligations.");
 
 
 
