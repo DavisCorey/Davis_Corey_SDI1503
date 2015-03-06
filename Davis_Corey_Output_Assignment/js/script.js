@@ -20,4 +20,4 @@ console.log("I have",numberOfKids,"children. ","My", myGirls,"girls love technol
 ,"I learn best with",learningType,"reminders of my accomplishments, this helps me stay",familyLearning,"to my daily obligations.");
 
 
-alert("For",learningType,"confirmation of output of variables please go to Console.")// Alert output of variable with string concatenated.
+alert("For " + learningType + " confirmation of output of variables please go to the Console.")// Alert output of variable with string concatenated.
