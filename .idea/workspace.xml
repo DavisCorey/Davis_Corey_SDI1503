@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27d3f59e-1332-46d2-9d50-14151c672668" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Video_Activities/Values_Variables/index.html" afterPath="$PROJECT_DIR$/Video_Activities/Values_Variables/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Davis_Corey_Output_Assignment/js/script.js" afterPath="$PROJECT_DIR$/Davis_Corey_Output_Assignment/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Video_Activities/Values_Variables/js/script.js" afterPath="$PROJECT_DIR$/Video_Activities/Values_Variables/js/script.js" />
     </list>
     <ignored path="Davis_Corey_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Davis_Corey_Output_Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18317503" vertical-offset="0" max-vertical-offset="737">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3256445" vertical-offset="0" max-vertical-offset="737">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -421,8 +419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Davis_Corey_Output_Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18317503" vertical-offset="0" max-vertical-offset="737">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3256445" vertical-offset="0" max-vertical-offset="737">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
