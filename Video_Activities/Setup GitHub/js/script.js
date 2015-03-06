@@ -13,5 +13,5 @@ alert("Testing 1, 2, 3 ");
 
 console.log("Testing the console.log");
 
-var userInput = prompt("Type in your name");
-console.log(userInput);
+var userInput = prompt("Type in your name");  //Prompt for user name
+console.log(userInput); //Storage of user name in console variable data
