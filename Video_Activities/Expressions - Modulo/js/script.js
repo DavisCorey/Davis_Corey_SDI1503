@@ -1,6 +1,7 @@
 //Expressions - Modulo
 
-var remainder = 211 % 2;
+var remainder;
+remainder = 211 % 2;
 console.log(remainder);
 
 
