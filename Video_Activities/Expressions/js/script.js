@@ -1,7 +1,9 @@
-//Expressions
+//Expressions - Age Example
 
-var a = 2;  //Declare and assigning value of 2
-a = a + 3; //add 3 to variable 'a', must declare variable before operator usage
-console.log(a);  //Confirming the value of variable 'a' in the console
+var yearBorn = 1979;  //Variable Declaration
+var age = 2015 - yearBorn;  // Expression calculation stored in variable 'age'
+console.log(age);  //Output of expression calculation stored
+
+
 
 
