@@ -4,5 +4,5 @@
 //Expression - Assignment Operators
 
 var a = 3;
-a = a + 4;   //Declare then used variable to add.
+a += 4;   //Declare then used variable to add but same as 'a = a + 4'
 console.log(a);
