@@ -3,5 +3,9 @@
  */
 //Prompt and Alert
 
-prompt();
+var userInput = prompt("Enter your year of birth:");  //Prompt for user input, store user input in variable userInput
+console.log(userInput); //Variable displayed in console that user input from prompt
+
+
+
 
