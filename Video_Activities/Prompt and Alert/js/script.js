@@ -9,6 +9,6 @@
 
 var width = prompt("We are calculating the area of a rectangle. \nPlease enter the width");  //Prompt for width
 var height = prompt("Please enter the height.");  //Prompt for height
-
-
+var area = width * height;  //Calculate user input
+console.log(area);  //Print out to console
 
