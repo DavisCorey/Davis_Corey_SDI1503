@@ -29,3 +29,4 @@ var fullString = [landScaper, sqFeet];  //Declaration of array variables
 
 //Display calculated total area and total plants
 alert(fullString[0] + totalArea + fullString[1] + totalTrees + " trees.");
+console.log(fullString[0] + totalArea + fullString[1] + totalTrees + " trees.");
