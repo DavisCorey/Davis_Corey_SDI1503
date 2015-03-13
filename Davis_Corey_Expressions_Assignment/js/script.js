@@ -15,11 +15,14 @@ cherryBlossom = prompt("Please enter the number of Cherry Blossom trees wanted."
 roseBush = prompt("Please enter the number of Rose Bushes wanted.");
 
 //Calculation of User input
-var bonsaiArea =  bonsaiTree * 2; //  Assignment operator to calculate bonsai tree area sq. ft.
-var cherryArea =  cherryBlossom * 4; // Assignment operator to calculate cherry blossom area sq. ft.
-var roseArea =  roseBush * 6; //Assignment operator to calculate rose bushes sq. ft.
+//var bonsaiArea =  bonsaiTree * 2; //  Assignment operator to calculate bonsai tree area sq. ft.
+//var cherryArea =  cherryBlossom * 4; // Assignment operator to calculate cherry blossom area sq. ft.
+//var roseArea =  roseBush * 6; //Assignment operator to calculate rose bushes sq. ft.
 
-var totalArea = bonsaiArea + cherryArea + roseArea;  //Calculation of total area used
+var totalArea = bonsaiTree *2 + cherryBlossom *4 + roseBush *6; //Calculation of total are required
+
+
+//var totalArea = bonsaiArea + cherryArea + roseArea;  //Calculation of total area used
 
 
 
