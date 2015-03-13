@@ -23,5 +23,9 @@ var totalTrees = Number(bonsaiTree) + Number(cherryBlossom) + Number(roseBush); 
 console.log(totalArea);
 console.log(totalTrees);
 
+var landScaper = "The landscaper will need "; //Declaration of string
+var sqFeet = " square feet to plant those ";  //Declaration of string
+var fullString = [landScaper, sqFeet];  //Declaration of array variables
+
 //Display calculated total area and total plants
-alert("The landscape will need "+ totalArea +" square feet to plant those " + totalTrees + " trees.");
+alert(fullString[0] + totalArea + fullString[1] + totalTrees + " trees.");
