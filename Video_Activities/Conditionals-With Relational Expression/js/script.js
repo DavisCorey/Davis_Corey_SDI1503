@@ -9,12 +9,13 @@
 //alert("JavaScript is functional!");
 
 //variables
-var kidHeight = 30;
+var kidHeight = 50;
+var minHeight = 48;
 
 //if the kid is over 48 inches in height additional code is executed.
 
 //conditional
-if(kidHeight > 48){
+if(kidHeight > minHeight){
     //code performed if condition is true
     console.log("You can ride the coaster!");
 }
