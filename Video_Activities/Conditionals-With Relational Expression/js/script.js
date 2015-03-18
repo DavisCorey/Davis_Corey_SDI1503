@@ -9,7 +9,7 @@
 //alert("JavaScript is functional!");
 
 //variables
-var kidHeight = 50;
+var kidHeight = 40;
 var minHeight = 48;
 
 //if the kid is over 48 inches in height additional code is executed.
