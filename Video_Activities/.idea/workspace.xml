@@ -37,11 +37,9 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals-Ternary Operators/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.101763904" vertical-offset="0" max-vertical-offset="737">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="39" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.3256445" vertical-offset="0" max-vertical-offset="737">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,8 +61,8 @@
         <option value="$PROJECT_DIR$/Conditionals-Else If/js/script.js" />
         <option value="$PROJECT_DIR$/Conditionals-Logical Operators/index.html" />
         <option value="$PROJECT_DIR$/Conditionals-Logical Operators/js/script.js" />
-        <option value="$PROJECT_DIR$/Conditionals-Ternary Operators/js/script.js" />
         <option value="$PROJECT_DIR$/Conditionals-Ternary Operators/index.html" />
+        <option value="$PROJECT_DIR$/Conditionals-Ternary Operators/js/script.js" />
       </list>
     </option>
   </component>
@@ -476,11 +474,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals-Ternary Operators/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.101763904" vertical-offset="0" max-vertical-offset="737">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.3256445" vertical-offset="0" max-vertical-offset="737">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
