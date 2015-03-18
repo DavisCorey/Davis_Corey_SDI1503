@@ -17,7 +17,7 @@ var wonLottery = true;
 
 //conditional
 //if the price of the phone is less our budget OR if win the lottery
-if(iPhonePrice < budget || wonLottery === true){
+if(iPhonePrice < budget || wonLottery){
     console.log("We can buy the phone! ");
 }else{
     console.log("No phone for you! ");
