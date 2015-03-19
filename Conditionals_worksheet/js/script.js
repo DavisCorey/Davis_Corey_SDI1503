@@ -10,10 +10,10 @@
 //variables
 //var temp=80;  //Hot enough example, is it hot enough to go to the beach
 //var weight=145;  //Stuff your face example, an entrant qualifies based on weight
-var degrees=Number(prompt("Please enter the temperature."));  //Prompt for temp in degrees
+/*var degrees=Number(prompt("Please enter the temperature."));  //Prompt for temp in degrees
 var unit=prompt("Enter the unit to convert to.","F or C");  //Prompt for unit of temp to convert
 var fahrenheit;
-var celsius;
+var celsius;*/
 
 //Conditionals
 /*if(temp <75){  //If less than 75 degrees
@@ -26,13 +26,13 @@ var celsius;
 }else{  //If greater than or equal to 250 pounds
     console.log("The competitor qualifies for the heavyweight division.")
 }*/
-if(unit=="F"){  //Conversion to Fahrenheit when 'F' entered
+/*if(unit=="F"){  //Conversion to Fahrenheit when 'F' entered
     fahrenheit=degrees*1.8+32;
     console.log("The temperature is "+fahrenheit+" degrees Fahrenheit.");  //Output of Fahrenheit temp
 }else if(unit=="C"){  //Conversion to Celsius when 'C' entered
     celsius=(degrees-32)*.5556;
     console.log("The temperature is "+celsius+" degrees Celsius.");  //Output of Celsius temp
-}
+}*/
 
 //prompts
 
