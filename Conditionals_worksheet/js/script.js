@@ -9,7 +9,7 @@
 
 //variables
 //var temp=80;  //Hot enough example, is it hot enough to go to the beach
-var weight=145;  //Stuff your face example, an entrant qualifies based on weight
+//var weight=145;  //Stuff your face example, an entrant qualifies based on weight
 
 //Conditionals
 /*if(temp <75){  //If less than 75 degrees
@@ -17,11 +17,12 @@ var weight=145;  //Stuff your face example, an entrant qualifies based on weight
 }else{  //If greater than 75 or equal
     console.log("We will go to the movies.");
 }*/
-if(weight <250){  //If less than 250 pounds
+/*if(weight <250){  //If less than 250 pounds
     console.log("The competitor needs to gain some weight!");
 }else{  //If greater than or equal to 250 pounds
     console.log("The competitor qualifies for the heavyweight division.")
-}
+}*/
+
 //prompts
 
 
