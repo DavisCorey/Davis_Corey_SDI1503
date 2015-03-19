@@ -35,8 +35,11 @@ var letterGrade;  //Variable declaration, Store conversion of % to letter grade
     celsius=(degrees-32)*.5556;
     console.log("The temperature is "+celsius+" degrees Celsius.");  //Output of Celsius temp
 }*/
-
+if(grade>=95&&grade<=100){  //Grade range for A+ letter grade
+    letterGrade="A+"
+}
 //prompts
 
 
 //outputs
+console.log("You have a "+grade+"%, which means you have earned a "+letterGrade+" in the class!");
