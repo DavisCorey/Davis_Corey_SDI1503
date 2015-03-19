@@ -26,10 +26,10 @@ var celsius;
 }else{  //If greater than or equal to 250 pounds
     console.log("The competitor qualifies for the heavyweight division.")
 }*/
-if(unit=="F"){  //Conversion to Fahren when 'F' entered
+if(unit=="F"){  //Conversion to Fahrenheit when 'F' entered
     fahrenheit=degrees*1.8+32;
     console.log("The temperature is "+fahrenheit+" degrees Fahrenheit.");  //Output of Fahrenheit temp
-}else if(unit=="C"){  //Conversion to Celsi when 'C' entered
+}else if(unit=="C"){  //Conversion to Celsius when 'C' entered
     celsius=(degrees-32)*.5556;
     console.log("The temperature is "+celsius+" degrees Celsius.");  //Output of Celsius temp
 }
