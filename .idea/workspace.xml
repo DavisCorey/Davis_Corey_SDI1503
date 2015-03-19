@@ -49,13 +49,14 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7734057" vertical-offset="0" max-vertical-offset="737">
-              <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.5291723" vertical-offset="0" max-vertical-offset="737">
+              <caret line="60" column="2" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
               <folding>
                 <element signature="e#84#111#0" expanded="false" />
                 <element signature="e#320#540#0" expanded="false" />
-                <element signature="e#755#931#0" expanded="false" />
-                <element signature="e#932#1166#0" expanded="false" />
+                <element signature="e#936#1170#0" expanded="false" />
+                <element signature="e#1171#1559#0" expanded="false" />
+                <element signature="e#1560#2252#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -737,13 +738,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7734057" vertical-offset="0" max-vertical-offset="737">
-          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.5291723" vertical-offset="0" max-vertical-offset="737">
+          <caret line="60" column="2" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
           <folding>
             <element signature="e#84#111#0" expanded="false" />
             <element signature="e#320#540#0" expanded="false" />
-            <element signature="e#755#931#0" expanded="false" />
-            <element signature="e#932#1166#0" expanded="false" />
+            <element signature="e#936#1170#0" expanded="false" />
+            <element signature="e#1171#1559#0" expanded="false" />
+            <element signature="e#1560#2252#0" expanded="false" />
           </folding>
         </state>
       </provider>

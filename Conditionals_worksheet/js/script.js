@@ -14,8 +14,8 @@
 var unit=prompt("Enter the unit to convert to.","F or C");  //Prompt for unit of temp to convert
 var fahrenheit;
 var celsius;*/
-var grade=Number(prompt("Please enter your % grade for this course.",95));  //Variable prompt for grade,defaulted 95%
-var letterGrade;  //Variable declaration, Store conversion of % to letter grade
+/*var grade=Number(prompt("Please enter your % grade for this course.",95));  //Variable prompt for grade,defaulted 95%
+var letterGrade;  //Variable declaration, Store conversion of % to letter grade*/
 
 //Conditionals
 /*if(temp <75){  //If less than 75 degrees
@@ -35,7 +35,7 @@ var letterGrade;  //Variable declaration, Store conversion of % to letter grade
     celsius=(degrees-32)*.5556;
     console.log("The temperature is "+celsius+" degrees Celsius.");  //Output of Celsius temp
 }*/
-if(grade>=95&&grade<=100){  //Grade range for A+ letter grade
+/*if(grade>=95&&grade<=100){  //Grade range for A+ letter grade
     letterGrade="A+"
 }else if(grade>=90&&grade<=94){ //Grade range for A letter grade
     letterGrade="A"
@@ -51,9 +51,11 @@ if(grade>=95&&grade<=100){  //Grade range for A+ letter grade
     letterGrade="D"
 }else if(grade>=0&&grade<=69){  //Grade range for F letter grade
     letterGrade="F"
-}
+}*/
+
+
 //prompts
 
 
 //outputs
-console.log("You have a "+grade+"%, which means you have earned a "+letterGrade+" in the class!");
+//console.log("You have a "+grade+"%, which means you have earned a "+letterGrade+" in the class!");
