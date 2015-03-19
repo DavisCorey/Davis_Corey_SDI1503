@@ -53,7 +53,11 @@ var fourTires = [75,75,79,79];  // Variable declaration, assignment of array val
 }else if(grade>=0&&grade<=69){  //Grade range for F letter grade
     letterGrade="F"
 }*/
-
+if(fourTires[0]==fourTires[1]&&fourTires[2]==fourTires[3]){ //Front 2 tires same pressure and back 2 same pressure,no requirement for front to match back pair.
+    console.log("The tires pass spec!")
+}else{
+    console.log("Get your tires checked out!")
+}
 
 //prompts
 

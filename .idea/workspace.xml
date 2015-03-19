@@ -49,26 +49,15 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18317503" vertical-offset="0" max-vertical-offset="737">
-              <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+            <state vertical-scroll-proportion="0.7327001" vertical-offset="0" max-vertical-offset="780">
+              <caret line="55" column="159" selection-start-line="55" selection-start-column="159" selection-end-line="55" selection-end-column="159" />
               <folding>
                 <element signature="e#84#111#0" expanded="false" />
                 <element signature="e#320#540#0" expanded="false" />
                 <element signature="e#541#742#0" expanded="false" />
                 <element signature="e#1020#1254#0" expanded="false" />
                 <element signature="e#1255#1643#0" expanded="false" />
-                <element signature="e#1644#2336#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Video_Activities/Expressions - Array/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <caret line="5" column="94" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="94" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -761,6 +750,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Video_Activities/Expressions - Array/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.101763904" vertical-offset="0" max-vertical-offset="737">
+          <caret line="5" column="94" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
@@ -769,25 +766,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Video_Activities/Expressions - Array/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="5" column="94" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18317503" vertical-offset="0" max-vertical-offset="737">
-          <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+        <state vertical-scroll-proportion="0.7327001" vertical-offset="0" max-vertical-offset="780">
+          <caret line="55" column="159" selection-start-line="55" selection-start-column="159" selection-end-line="55" selection-end-column="159" />
           <folding>
             <element signature="e#84#111#0" expanded="false" />
             <element signature="e#320#540#0" expanded="false" />
             <element signature="e#541#742#0" expanded="false" />
             <element signature="e#1020#1254#0" expanded="false" />
             <element signature="e#1255#1643#0" expanded="false" />
-            <element signature="e#1644#2336#0" expanded="false" />
           </folding>
         </state>
       </provider>
