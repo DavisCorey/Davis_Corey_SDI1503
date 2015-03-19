@@ -16,6 +16,7 @@ var fahrenheit;
 var celsius;*/
 /*var grade=Number(prompt("Please enter your % grade for this course.",95));  //Variable prompt for grade,defaulted 95%
 var letterGrade;  //Variable declaration, Store conversion of % to letter grade*/
+var fourTires = [75,75,79,79];  // Variable declaration, assignment of array values
 
 //Conditionals
 /*if(temp <75){  //If less than 75 degrees
