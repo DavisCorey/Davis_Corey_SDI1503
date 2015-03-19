@@ -37,6 +37,20 @@ var letterGrade;  //Variable declaration, Store conversion of % to letter grade
 }*/
 if(grade>=95&&grade<=100){  //Grade range for A+ letter grade
     letterGrade="A+"
+}else if(grade>=90&&grade<=94){ //Grade range for A letter grade
+    letterGrade="A"
+}else if(grade>=85&&grade<=89){  //Grade range for B+ letter grade
+    letterGrade="B+"
+}else if(grade>=80&&grade<=84){  //Grade range for B letter grade
+    letterGrade="B"
+}else if(grade>=76&&grade<=79){  //Grade range for C+ letter grade
+    letterGrade="C+"
+}else if(grade>=73&&grade<=75){  //Grade range for C letter grade
+    letterGrade="C"
+}else if(grade>=70&&grade<=72){  //Grade range for D letter grade
+    letterGrade="D"
+}else if(grade>=0&&grade<=69){  //Grade range for F letter grade
+    letterGrade="F"
 }
 //prompts
 
