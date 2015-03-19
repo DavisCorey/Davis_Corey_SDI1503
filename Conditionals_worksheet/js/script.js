@@ -10,7 +10,8 @@
 //variables
 //var temp=80;  //Hot enough example, is it hot enough to go to the beach
 //var weight=145;  //Stuff your face example, an entrant qualifies based on weight
-
+var degrees=Number(prompt("Please enter the temperature."));  //Prompt for temp in degrees
+var unit=prompt("Enter the unit to convert to.","F or C");  //Prompt for unit of temp to convert
 //Conditionals
 /*if(temp <75){  //If less than 75 degrees
     console.log("We will go to the beach! ");
