@@ -17,6 +17,7 @@ var blankString;  //Variable Declaration, Hold blank string prompt value if true
 var blankString2;  //Variable Declaration, Hold blank string prompt value if true
 var blankString3;  //Variable Declaration, Hold blank string prompt value if true
 var approval;  //Variable Declaration, Hold approval based on range stored.
+var lastOption;  // Variable Declaration, Hold additional information
 
 //Validate Prompt with Ternary
 blankString=(budget=="")? Number(prompt("We left out some information \n Can you input your estimated budget in dollars.")):false;
@@ -30,10 +31,13 @@ personCost = budget / (meeting * attendees);
 
 //conditionals
 if(personCost>=25&&(attendees>=1&&meeting>=1)){  //Range of meetings declined based on high amount spent per person
-    approval="denied"
+    approval="denied";
+    lastOption="Try to lower your overall budget or increase the number of attendees that my come.";
 }else if(personCost<=24&&(attendees>=1&&meeting>=1)){  //Reasonable range of meetings approved based on amount spent per person
-    approval="approved"
+    approval="approved";
+    lastOption="Everyone should be comfortable with your planning.";
 }
 
+
 //outputs
-console.log("At $"+personCost+" your budget of $"+budget+" will be "+approval+" by the finance department.");
+console.log("At $"+personCost+" per attendee, your budget of $"+budget+" will be "+approval+" by the finance department."+lastOption);
