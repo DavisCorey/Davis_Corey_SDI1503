@@ -29,7 +29,11 @@ personCost = budget / (meeting * attendees);
 
 
 //conditionals
-
+if(personCost>=25&&(attendees>=1&&meeting>=1)){  //Range of meetings declined based on high amount spent per person
+    approval="denied"
+}else if(personCost<=24&&(attendees>=1&&meeting>=1)){  //Reasonable range of meetings approved based on amount spent per person
+    approval="approved"
+}
 
 //outputs
 console.log("At $"+personCost+" your budget of $"+budget+" will be "+approval+" by the finance department.");
