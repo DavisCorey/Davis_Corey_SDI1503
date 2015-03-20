@@ -20,12 +20,13 @@ var approval;  //Variable Declaration, Hold approval based on range stored.
 var lastOption;  // Variable Declaration, Hold additional information
 
 //Validate Prompt with Ternary
-blankString=(budget=="")? Number(prompt("We left out some information \n Can you input your estimated budget in dollars.")):false;
-blankString2=(meeting=="")? Number(prompt("We left out some information \n Can you input the number of meeting to schedule this year.")):false;
-blankString3=(attendees=="")? Number(prompt("We left out some information \n Can you input the number of people the venue can hold")):false;
+blankString=(budget=="")? budget=Number(prompt("We left out some information \n Can you input your estimated budget in dollars.")):false;
+blankString2=(meeting=="")? meeting=Number(prompt("We left out some information \n Can you input the number of meeting to schedule this year.")):false;
+blankString3=(attendees=="")? attendees=Number(prompt("We left out some information \n Can you input the number of people the venue can hold")):false;
 
 
 //process calculation person cost
+
 personCost = budget / (meeting * attendees);
 
 
