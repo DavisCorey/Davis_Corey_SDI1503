@@ -11,6 +11,13 @@
 
 
 //functions
-
-
+function outptMsg(){  //Function definition
+    console.log("Hello World");  //Output string
+}
+function calcArea(){  //Function definition
+    var width=20;
+    var height=30;
+    var area=width*height;
+    console.log(area);  //Output calculation of area
+}
 //outputs
