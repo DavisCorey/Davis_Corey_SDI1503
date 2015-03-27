@@ -27,6 +27,10 @@ function choiceValidation(lotteryChoice){  //Function Declaration
 
 //main code
 lotteryType=choiceValidation(lotteryType);  //Set prompt variable to run choiceValidation
-
+if (lotteryType=="P"){
+    powerChoice=alert("You're Powerball numbers are ");
+}else if (lotteryType=="F"){
+    floridaChoice=alert("You're Florida Lottery numbers are ")
+}
 
 //outputs
