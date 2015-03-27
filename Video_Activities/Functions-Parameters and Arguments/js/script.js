@@ -5,12 +5,18 @@
  */
 
 //Add alert to test my file
-alert("JavaScript is functional!");
+//alert("JavaScript is functional!");
 
 //variables
 
 
 //functions
+calcArea(30,20);  //Function call with 2 parameters
 
+function calcArea(w,h){  //w=30 , h=20
+    var area=w*h;
+    console.log(area);
+
+}
 
 //outputs
