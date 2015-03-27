@@ -5,10 +5,10 @@
  */
 
 //Add alert to test my file
-alert("JavaScript is functional!");
+//alert("JavaScript is functional!");
 
 //variables
-
+var lotteryType=prompt("For random lottery numbers please select \nP for Powerball Lottery or F for the Florida lottery.");//Prompt for lottery type choice
 
 //functions
 
