@@ -1,7 +1,7 @@
 /**
  * Created by CoreyDavis on 3/26/15.
  * MDV 2330
- * Functions - Basic Structure
+ * Functions - Variable Scope
  */
 
 //Add alert to test my file
