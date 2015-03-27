@@ -8,9 +8,25 @@
 //alert("JavaScript is functional!");
 
 //variables
-var lotteryType=prompt("For random lottery numbers please select \nP for Powerball Lottery or F for the Florida lottery.");//Prompt for lottery type choice
+var lotteryType=prompt("For random lottery numbers please select \nP for Powerball Lottery or F for the Florida Lottery.");//Prompt for lottery type choice
 
 //functions
+function choiceValidation(lotteryChoice){  //Function Declaration
+    var timeChosen = 1;  //Set number of times choice has been made
+    while(lotteryChoice===""){  //Set condition to run lottery choice prompt
+        lotteryChoice=prompt("Do not leave this blank. \n\nPlease choose P for Powerball or F for the Florida Lottery.");
+        timeChosen++;  //Increment loop through prompt
+        if (timeChosen===6){  //Set maximum increment through prompt
+            console.log("You have run out of attempts today.");  //Display warning to retry
+            break;
+        }
+    }
+    return lotteryChoice;
+}
+
+
+//main code
+lotteryType=choiceValidation(lotteryType);  //Set prompt variable to run choiceValidation
 
 
 //outputs
